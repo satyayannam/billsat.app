@@ -1,5 +1,5 @@
 # Billsat v0.1
-my bad i didn't upload the application file, i placed the drive link to the application folder which is working perfectly fine, make sure to use it.
+my bad i didn't upload the application file, i placed the drive link to the application folder which is working perfectly fine, make sure to use it. Alos my bad there was a error i found in adding the items to my "add products". try adding the files using the xlsx file, I'll try to fix this asap
 
 ## Features
 
